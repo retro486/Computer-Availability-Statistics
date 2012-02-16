@@ -1,0 +1,9 @@
+Usage:
+
+python parsestats.py inputfile.csv
+
+Creates two new files:
+
+output-computer-usage-per-day.csv -- Shows computer usage by day (workstation popularity)
+
+output-peak-hours-per-day.csv -- Shows what hours are the most popular for each day (helps determine your busiest time of day; i.e., when NOT to push updates).
